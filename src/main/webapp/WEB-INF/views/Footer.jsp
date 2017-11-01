@@ -8,6 +8,6 @@
 </table>
 <table width="1200">
  <!--   <tr>
-     <td align="right" style="font-size:x-small;">Copyright @ Tech Mahindra 2014.</td>
+       <td align="right" style="font-size:x-small;">Copyright @ Tech Mahindra 2014.</td>
   </tr>-->
 </table>
