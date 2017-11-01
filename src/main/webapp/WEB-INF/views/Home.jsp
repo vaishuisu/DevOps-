@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
     <meta name="Description" content="Test Environment Request Application">
     <meta name="author" content="Mahesh Kumar Palaniswamy">
-    <meta name="Copyright" content="Copyright @ Tech Mahindra 2014.">
+    
     <title>Test Environment Request Application : Home Page</title>
     <link rel="stylesheet" href="<%=contextPath%>/resources/stylesheets/tera.css" />
 </head>

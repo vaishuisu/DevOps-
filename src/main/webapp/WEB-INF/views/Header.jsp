@@ -1,8 +1,8 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <table border="0" width="1200">
-  <tr>
+  <!--  <tr>
      <td align="left"><img src="<%=request.getContextPath()%>/resources/images/Capture2.PNG"></td>
-  </tr>
+  </tr> -->
 </table>
 <table border="0" width="100%">
   <tr>

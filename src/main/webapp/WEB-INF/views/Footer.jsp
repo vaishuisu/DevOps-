@@ -7,7 +7,7 @@
 	   </tr>
 </table>
 <table width="1200">
-  <tr>
+ <!--   <tr>
      <td align="right" style="font-size:x-small;">Copyright @ Tech Mahindra 2014.</td>
-  </tr>
+  </tr>-->
 </table>

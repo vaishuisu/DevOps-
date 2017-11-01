@@ -14,13 +14,6 @@
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 		</properties>
 	
-	<distributionManagement>
-		<snapshotRepository>
-			<id>snapshots</id>
-			<url>http://10.53.77.138:8081/nexus/content/repositories/snapshots</url>
-		</snapshotRepository>
-	</distributionManagement>
-
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
