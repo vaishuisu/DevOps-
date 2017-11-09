@@ -6,7 +6,7 @@
     <meta name="Description" content="Test Environment Request Application">
     <meta name="author" content="Mahesh Kumar Palaniswamy">
     
-    <title>Test Environment Request Application : Home Page</title>
+    <title>Test Environment Request Application Home Page</title>
     <link rel="stylesheet" href="<%=contextPath%>/resources/stylesheets/tera.css" />
 </head>
 <body>
