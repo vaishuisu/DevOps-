@@ -22,7 +22,7 @@ public class SeleniumTestingIT
   public static void beforeTest() 
   {
 	  driver = new FirefoxDriver();
-	  baseUrl = "http://10.53.67.7:70/tera";  
+	  baseUrl = "http://localhost:9999/tera%2DOSADOPT%2D1.0.1%2DBUILD%2DSNAPSHOT/";  
   }
   
   @Test()
